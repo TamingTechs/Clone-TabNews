@@ -1,0 +1,7 @@
+gitignore.cmd
+wsl_instconf.cmd
+pagesindexStructure.cmd
+nvmrc_hydrogen.cmd
+nvmrc_latest.cmd
+.next
+node_modules
